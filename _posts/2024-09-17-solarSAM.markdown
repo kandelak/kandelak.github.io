@@ -2,7 +2,7 @@
 layout: post
 title:  "Mapping Solar Potential: Comprehensive PV System Detection with Aerial and Satellite Images Using SolarSAM"
 date:   2024-09-17 10:00:00 +00:00
-image: /images/3dgaussian.jpg
+image: /images/SolarSAM.jpg
 categories: research
 author: "Jessy Matar"
 authors: "Jessy Matar, Michael Albrecht, <strong>Aleksandre Kandelaki</strong>, Florian Kotthoff, Markus Duchon"
