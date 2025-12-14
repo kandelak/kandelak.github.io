@@ -7,7 +7,7 @@ categories: research
 author: "Jessy Matar"
 authors: "Jessy Matar, Michael Albrecht, <strong>Aleksandre Kandelaki</strong>, Florian Kotthoff, Markus Duchon"
 venue: "IEEE International Conference on Smart Grid Communications (SmartGridComm)"
-paper: pdfs/Mapping_Solar_Potential_Comprehensive_PV_System_Detection_with_Aerial_and_Satellite_Images_Using_SolarSAM.pdf
+paper: /pdfs/SolarSAM.pdf
 website: https://ieeexplore.ieee.org/document/10738071
 code: https://github.com/kandelak/SolarSAM
 ---
