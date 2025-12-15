@@ -7,7 +7,7 @@ categories: research
 author: "Jessy Matar"
 authors: "Jessy Matar, Michael Albrecht, <strong>Aleksandre Kandelaki</strong>, Florian Kotthoff, Markus Duchon"
 venue: "IEEE International Conference on Smart Grid Communications (SmartGridComm)"
-paper: /pdfs/SolarSAM.pdf
+paper: /pdfs/SolarSAM_final.pdf
 website: https://ieeexplore.ieee.org/document/10738071
 code: https://github.com/kandelak/SolarSAM
 ---
